@@ -1,23 +1,23 @@
 {
-  "name": "profile-backend",
+  "name": "amit-profile-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Amit Singh Rana Profile Page",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "jest"
   },
-  "author": "Anas Khan",
+  "author": "Amit Singh Rana",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "lowdb": "^1.0.0",
-    "morgan": "^1.10.0"
+    "body-parser": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "lowdb": "latest",
+    "morgan": "latest"
   },
   "devDependencies": {
-    "jest": "^26.4.2"
+    "jest": "latest"
   }
 }
